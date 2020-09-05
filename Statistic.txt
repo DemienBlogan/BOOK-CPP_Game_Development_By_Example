@@ -1,0 +1,14 @@
+Кількість рядків коду по главам:
+Chapter 01 - 765
+Chapter 03 - 80
+Chapter 04 - 384
+Chapter 05 - 503
+Chapter 06 - 703
+Chapter 07 - 960
+Chapter 08 - 1323
+Chapter 09 - 538
+Chapter 10 - 1159
+Chapter 11 - 1912
+Chapter 12 - 2364
+
+Загалом - 10691
